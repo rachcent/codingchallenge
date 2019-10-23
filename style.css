@@ -5,3 +5,9 @@ html, body {
 canvas {
   display: block;
 }
+
+body{
+  background-image: url("bg_1.jpg"), url("bg_2.jpg");
+  background-repeat: no-repeat, repeat;
+ background-color: #cccccc;
+}
